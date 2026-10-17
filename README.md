@@ -4,6 +4,8 @@
 
 I build practical software for real businesses: offline-first desktop systems, web tools, and process automation. Complete systems, delivered ready to run — not hourly labor.
 
+🔭 **Currently building:** AI Business Assistant — voice-first automation for business operations (WhatsApp agent, reports, invoicing).
+
 ---
 
 ### 🚀 What I build
