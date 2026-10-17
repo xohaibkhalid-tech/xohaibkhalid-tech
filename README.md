@@ -21,6 +21,7 @@ I build practical software for real businesses: offline-first desktop systems, w
 ### 📌 Featured work
 
 - **ShopManager Pro** — offline POS & business manager · 8 modules · Windows EXE · fully offline
+- **SalonPro · GaragePro · BookKeeperPro** — more offline business systems for salons, auto-repair shops & bookkeeping
 - **[thecalcfolio.com](https://thecalcfolio.com)** — 8 production fee calculators · live web app
 - **ebikecerta.com** — 70+ page content platform · live
 - **printablemama.com** — printables website · live
