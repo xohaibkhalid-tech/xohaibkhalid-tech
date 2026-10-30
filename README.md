@@ -38,5 +38,7 @@ Perpetual-license software — one-time investment, lifetime ownership. No subsc
 ### 📫 Contact
 
 - ✉️ Zohaibkhalid518@hotmail.com
+- 💼 Upwork: [Zohaib Khalid](https://www.upwork.com/freelancers/~01f434d3705fb11406)
+- 💼 Fiverr: [zkdigitalcraft](https://www.fiverr.com/zkdigitalcraft)
 - 🛒 Etsy: [ZKDigitalCraft](https://www.etsy.com/shop/ZKDigitalCraft)
 - 📍 Gujranwala, Pakistan
